@@ -1,5 +1,7 @@
 # Adding-Files-Larger-than-100MB-to-Your-Repo
 
+First, you have to get your GitHub token. To get your token, go to Settings --> Developer settings --> Personal access tokens --> Generate new token.
+
 **Step 1:** git lfs install
 
 **Step 2:** git init
