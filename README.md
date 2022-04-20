@@ -18,6 +18,7 @@ First, you have to get your GitHub token. To get your token, go to the path Sett
  
 **Step 8:** git commit -m "Add files"
  
+**Step 9:** git push origin master
 
 
 
