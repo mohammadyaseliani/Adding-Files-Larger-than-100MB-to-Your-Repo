@@ -1,6 +1,6 @@
 # Adding-Files-Larger-than-100MB-to-Your-Repo
 
-**Step 1:** git lfs install
+**Step 1:** git lfs install \n
 **Step 2:** git init
 **Step 3:** git lfs track "file name"
 **Step 4:** git add .gitattributes
