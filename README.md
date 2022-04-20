@@ -20,6 +20,7 @@ First, you have to get your GitHub token. To get your token, go to the path Sett
  
 **Step 9:** git push origin master
 
+ Wait until the files are uploaded to your GitHub Repository and the process is completed.
 
 
 
