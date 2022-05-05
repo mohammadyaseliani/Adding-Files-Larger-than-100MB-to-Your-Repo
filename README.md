@@ -6,7 +6,7 @@ First, you have to get your GitHub access token. To get your token, go to the pa
 
 **Step 2:** git init
 
-**Step 3:** git lfs track "file name"
+**Step 3:** git lfs track "file name" (you can use "*.fileformat" to track all files of the same format)
 
 **Step 4:** git add .gitattributes
 
