@@ -1,6 +1,6 @@
 # Adding-Files-Larger-than-100MB-to-Your-Repo
 
-First, you have to get your GitHub token. To get your token, go to the path Settings --> Developer settings --> Personal access tokens --> Generate new token. Now, put the files you want to upload in a folder in your desktop, go to Command Prompt, navigate to the folder path, and follow these steps:
+First, you have to get your GitHub access token. To get your token, go to the path Settings --> Developer settings --> Personal access tokens --> Generate new token. Now, put the files you want to upload in a folder in your desktop, go to Command Prompt, navigate to the folder path, and follow these steps:
 
 **Step 1:** git lfs install
 
